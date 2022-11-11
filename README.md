@@ -304,42 +304,6 @@
     <a href="https://codecanyon.net/item/tgsender-contactgroup-sender/37945922" rel="nofollow">
       <img src="https://i.ibb.co/rwy1yH4/01tg-sender.png" alt="Telegram-TgSender Contact|Group Bulk Send|Invite" border="0"/>
     </a>
-	
-	 <a href="https://codecanyon.net/item/telegram-marketer-tools-6/33837496" rel="nofollow">
-        <img src="https://i.ibb.co/VYrDCBJ/02temaket.png" alt="Telegram Marketing Tools-Scraper/Extract/Add/Search/Invite Member" border="0"/>
-     </a>
-	 
-      <a href="https://codecanyon.net/item/google-maps-data-scraper-pro/34319381" rel="nofollow">
-         <img src="https://i.ibb.co/Y8my8sL/03-gmap.png" alt="Google Maps Data Scraper Pro With Multi-Language" border="0"/>
-     </a>
-	 
-	 <a href="https://codecanyon.net/item/social-network-data-assistant/35762445" rel="nofollow">
-         <img src="https://i.ibb.co/K2pH0jN/03-social.jpg" alt="Social Network Data Bulk Scrape & Extractor Pro" border="0"/>
-     </a>
-	 
-	  <a href="https://codecanyon.net/item/email-bulk-searchextractadd-tools/35506368" rel="nofollow">
-         <img src="https://i.ibb.co/cJJWSqk/04-email.jpg" alt="Emails|Phones|Any Bulk Scrape & Extractor Pro" border="0"/>
-     </a>
-	 
-	  <a href="https://codecanyon.net/item/social-medialinkedin-scrape-pro/36804538" rel="nofollow">
-        <img src="https://i.ibb.co/B6fmV3g/04-linked.jpg" alt="Social Media-LinkedIn Scrape Pro" border="0"/>
-     </a>
-
-     <a href="https://codecanyon.net/item/any-webite-phone-scrapeextract-pro/36886578" rel="nofollow">
-       <img src="https://i.ibb.co/TwjVt5N/06-phonescrape.jpg" alt="Any Webite Phone Scrape|Extract Pro" border="0"/>
-     </a>
-	 
-	  <a href="https://codecanyon.net/item/social-mediafacebook-groups-extractscrape-pro/36784128" rel="nofollow">
-       <img src="https://i.ibb.co/9Zyz0bX/07-facebook.jpg" alt="Social Media-Facebook Scrape Group|Scrape Group Members Pro" border="0"/>
-     </a>
-
-
-      <a href="https://codecanyon.net/item/social-mediatwitter-scrape-pro/36702645" rel="nofollow">
-       <img src="https://i.ibb.co/TRrtvBc/08-twitter.jpg" alt="Social Media-Twitter Scrape Pro" border="0"/>
-      </a>
-	  
-	  <a href="https://codecanyon.net/item/wasender-whatsapp-bulk-sender-group-sender/36924764" rel="nofollow">
-       <img src="https://i.ibb.co/6JbZW4V/wa-send.jpg" alt="WaSender - Whatsapp Bulk Sender |Group Sender" border="0"/>
-      </a>
+ 
 
 
