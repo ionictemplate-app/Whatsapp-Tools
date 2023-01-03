@@ -2,7 +2,8 @@
 
 # DOWNLOAD: https://bit.ly/3FJnXU7
 
-# Telegram @captainC999
+# telegram: https://t.me/IonicSupport
+# whatsapp:+1 315 629 9582
 
 <h2><strong>Whatsapp Bulk Sender Tools | Group Send | Include License Generate Tools </strong></h2>
 <p>Whatsapp Bulk Sender Tools  | Group Send | Include Key Generate Tools is a very friendly windows-based application, a solution to automatically send messages to your bulk customers</P>
