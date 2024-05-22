@@ -1,7 +1,17 @@
 # Whatsapp Bulk Sender | Group Sender |Auto Reply +License KeyGen App-Full Reseller
 
 # DOWNLOAD: [https://bit.ly/3FJnXU7](https://codecanyon.net/item/whatsapp-bulk-sender-tools/34125850)
-# whatsapp:+1 315 629 9582
+
+## All Product List:🌐 https://bit.ly/alloninesocial
+### Telegram: 👉 https://t.me/IonicSupport   
+### Whatsapp  👉 http://wa.me/447999197856
+### Telegram Support Group:👉 https://t.me/+UVmjOA7wu3szYzM1
+
+### Youtube Channel 
+#### 📽 https://www.youtube.com/channel/UCz2Ti8uKwv0Fh5j5IgUTPww
+#### 📽 https://www.youtube.com/channel/UC6NZcaPmat9ooKW1yLxdnjQ
+
+
 
  
 <h2><strong>Whatsapp Bulk Sender | Group Sender |Auto Reply +License KeyGen App-Full Reseller 3.1.11</strong></h2>
@@ -125,11 +135,7 @@
   </tr>
 </table>
 
-<h2><strong>Online Support</strong></h2>
-<a href="https://api.whatsapp.com/send/?phone=13156299582" target="_blank">
-  <img src="https://i.ibb.co/4m4HMPR/onlinehelp1.png" alt="Whatsapp Market Pro +License Generate Key Aapp-onlinehelp1"
-  />
-</a>
+ 
 
 
 <h2><strong>Whatsapp Bulk Sender | Group Sender |Auto Reply +License KeyGen App-Full Reseller--ScreenShot</strong></h2>
@@ -270,100 +276,8 @@
 <h2><strong>Online Support</strong></h2>
 <p>If you are interested in any of our products,If you have any questions,welcome to contact us.</p>
 
-<table>
-  <tr>
-    <td>
-      <a href="mailto:ionicstudio@hotmail.com">
-        <img src="https://i.ibb.co/D95ZGwY/email.png" alt="email">
-      </a>
-    </td>
-    <td>
-      <a href="https://api.whatsapp.com/send/?phone=13156299582" rel="nofollow">
-        <img src="https://i.ibb.co/XyMCqD4/wa2.png" alt="wa2" border="0">
-      </a>
-    </td>
-  </tr>
-</table>
 
-<h3><strong>Update Logs</strong></h3>
-- V3.1.11( 2023 August 05)
-<pre>
-  --Add: Multiple language support:English,Italiano,Deutsch,Français,Português,Español,Bahasa Indonesia,Bahasa Melayu,Tiếng Việt, Türkçe,हिन्दी,ខ្មែរ,简体中文,繁體中文
-  --Update:License KeyGen
-  --Update:Error exception
-  --Update:User Document
- </pre>
-- V3.1.10( 2023 August 03)
-<pre>
-  --Fixed: Send message Issue
-  --Update:Auto Update
- </pre>
-- V3.1.9 ( 2023 July 06)
-<pre>
-  --Fixed: Fix autoresponder issues
-  --Update: group extraction
- </pre>
-- V3.1.8 ( 2023 June 06)
-<pre>
-  --Update: Message support file send 
-  --Remove: remove button template message
- </pre>
-- V3.1.7.2 ( 2023 May 06)
-<pre>
-  --Update: KeyGen app add sqlite db
-  --Update: KeyGen app mamage user
- </pre>
-- V3.1.7.1 ( 2023 April 06)
-<pre>
-  --Update: to whatsapp cloud api
-  --Fixed: Export issue
- </pre>
-- V3.1.7 ( 2023 Mar 06)
-<pre>
-  --Fixed: Fixed welcome page image deformation
-  --Fixed: Auto Reply issue 
- </pre>
-- V3.1.6 ( 2023 Mar 03)
-<pre>
-  --Update: Update the problem of sending messages (adapt to the latest api)
-  --Fixed: Filter result export issue
-  --Update:Support send message animated stickers 
-  --Update:Update new send message
- </pre>
-- V3.1.5 ( 2023 Feb 28)
-<pre>
-  --Add: Send video
-  --Add: Contact Send Result
-  --Add: Group Send Result
-  --Update:Update App Name--WaMarketPro+Auto Reply
- </pre>
-- V3.1.4 ( 2023 Feb 28)
-<pre>
-  --Fixed:fixed extract feature
-  --Fixed: login status
- </pre>
-- V3.1.3 ( 2023 Feb 25)
-<pre>
-  --Add: Chorme dervice description
-  --Fixed:Extract issue
- </pre>
-- V3.1.2 ( 2023 Feb 23)
-<pre>
-  --Add: Send result resaon
-  --Fixed:fixed send feature
-  --Update: full user doucment
- </pre>
-- V3.1.1 ( 2023 Feb 20)
-<pre>
-  --Add: Featrue Video
-  --Update: Update user document
- </pre>
-- V3.1.0 ( 2023 Feb 17)
-<pre>
-  --Fixed: Group Send
-  --Fixed: Change the packing 
- </pre>
-- V3.0.1 ( 2023 Feb 16)
+
 <pre>
   --New Version: Fast Api Version
  </pre>
